@@ -1,0 +1,437 @@
+2018-08-22T01:28:08.796Z - normal: Load ~/.CocosCreator/settings.json
+2018-08-22T01:28:08.804Z - normal: checking language setting...
+2018-08-22T01:28:08.804Z - normal: Language: zh
+2018-08-22T01:28:12.542Z - success: protocol editor-framework registered
+2018-08-22T01:28:12.542Z - success: protocol app registered
+2018-08-22T01:28:12.543Z - success: protocol theme registered
+2018-08-22T01:28:12.543Z - success: protocol packages registered
+2018-08-22T01:28:12.543Z - success: protocol unpack registerred
+2018-08-22T01:28:12.543Z - success: protocol disable-commonjs registerred
+2018-08-22T01:28:12.676Z - normal: connected!
+2018-08-22T01:28:12.677Z - normal: Check project D:\Workspace\CocosProject\CocosCreator\demo-instant-games-master
+2018-08-22T01:28:12.680Z - normal: Initializing Cocos2d
+2018-08-22T01:28:16.789Z - normal: Initializing Asset Database
+2018-08-22T01:28:16.900Z - success: protocol uuid registerred
+2018-08-22T01:28:16.900Z - success: protocol db registerred
+2018-08-22T01:28:16.901Z - success: protocol thumbnail registerred
+2018-08-22T01:28:16.901Z - normal: Loading editor/builtin packages
+2018-08-22T01:28:16.945Z - success: anysdk loaded
+2018-08-22T01:28:17.242Z - success: assets loaded
+2018-08-22T01:28:17.245Z - success: builder loaded
+2018-08-22T01:28:17.249Z - success: cocos-analytics loaded
+2018-08-22T01:28:17.253Z - success: console loaded
+2018-08-22T01:28:17.296Z - success: fb-instant-games loaded
+2018-08-22T01:28:17.300Z - success: hierarchy loaded
+2018-08-22T01:28:17.303Z - success: inspector loaded
+2018-08-22T01:28:17.304Z - success: keystore loaded
+2018-08-22T01:28:17.308Z - success: node-library loaded
+2018-08-22T01:28:17.309Z - success: package-asset loaded
+2018-08-22T01:28:17.312Z - success: preferences loaded
+2018-08-22T01:28:17.314Z - success: project-exporter loaded
+2018-08-22T01:28:17.333Z - success: project-importer loaded
+2018-08-22T01:28:17.336Z - success: project-settings loaded
+2018-08-22T01:28:17.337Z - success: ui-kit loaded
+2018-08-22T01:28:17.341Z - success: ui-grid loaded
+2018-08-22T01:28:17.344Z - success: scene loaded
+2018-08-22T01:28:17.346Z - success: sprite-editor loaded
+2018-08-22T01:28:17.349Z - success: store loaded
+2018-08-22T01:28:17.355Z - success: timeline loaded
+2018-08-22T01:28:17.355Z - normal: Loading builtin packages
+2018-08-22T01:28:17.369Z - success: asset-db-debugger loaded
+2018-08-22T01:28:17.371Z - success: code-editor loaded
+2018-08-22T01:28:17.378Z - success: color-picker loaded
+2018-08-22T01:28:17.380Z - success: package-manager loaded
+2018-08-22T01:28:17.389Z - success: sdkbox loaded
+2018-08-22T01:28:17.391Z - success: tester loaded
+2018-08-22T01:28:17.393Z - success: ui-kit-preview-extra loaded
+2018-08-22T01:28:17.394Z - success: ui-kit-preview loaded
+2018-08-22T01:28:17.417Z - success: ui-tree loaded
+2018-08-22T01:28:19.624Z - normal: Initializing project D:\Workspace\CocosProject\CocosCreator\demo-instant-games-master
+2018-08-22T01:28:19.635Z - normal: Loading packages
+2018-08-22T01:28:19.641Z - normal: Watching packages
+2018-08-22T01:28:19.675Z - normal: Run Application
+2018-08-22T01:28:23.208Z - success: preview server running at http://localhost:7456
+2018-08-22T01:28:35.618Z - normal: 1.9.0
+2018-08-22T04:07:33.590Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "D:\\Workspace\\CocosProject\\CocosCreator\\demo-instant-games-master\\build",
+  "debug": false,
+  "dest": "D:\\Workspace\\CocosProject\\CocosCreator\\demo-instant-games-master\\build\\fb-instant-games",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.instant-games-example",
+  "platform": "fb-instant-games",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "eddc6626-5b0e-468d-b21f-546954818b1f"
+  ],
+  "sourceMaps": false,
+  "startScene": "eddc6626-5b0e-468d-b21f-546954818b1f",
+  "template": "link",
+  "title": "offical-instant-sdk-demo",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "appid": "wx6ac3f5090a6b99c5",
+    "orientation": "portrait"
+  },
+  "xxteaKey": "81a5aca1-c166-46",
+  "zipCompressJs": true,
+  "project": "D:\\Workspace\\CocosProject\\CocosCreator\\demo-instant-games-master",
+  "projectName": "offical-instant-sdk-demo",
+  "debugBuildWorker": false
+}
+2018-08-22T04:07:33.599Z - normal: Building D:\Workspace\CocosProject\CocosCreator\demo-instant-games-master
+2018-08-22T04:07:33.599Z - normal: Destination D:\Workspace\CocosProject\CocosCreator\demo-instant-games-master\build\fb-instant-games
+2018-08-22T04:07:34.597Z - normal: Delete D:\Workspace\CocosProject\CocosCreator\demo-instant-games-master\build\fb-instant-games\**\*
+2018-08-22T04:07:42.637Z - normal: Compiled project javascript file successfully
+2018-08-22T04:07:42.638Z - normal: Start building assets
+2018-08-22T04:07:42.638Z - normal: Start spawn build-worker
+2018-08-22T04:07:43.844Z - normal: Finish spawn build-worker
+2018-08-22T04:07:43.844Z - normal: Start init build-worker
+2018-08-22T04:07:47.737Z - normal: 1.9.0
+2018-08-22T04:07:47.893Z - normal: Finish init build-worker
+2018-08-22T04:07:47.893Z - normal: Start build-assets in worker
+2018-08-22T04:07:50.037Z - normal: Finish build-assets in worker
+2018-08-22T04:07:50.050Z - normal: Finish building assets
+2018-08-22T04:07:50.074Z - normal: Start building raw assets
+2018-08-22T04:07:50.075Z - normal: Start building plugin scripts
+2018-08-22T04:07:50.123Z - normal: Finish building raw assets
+2018-08-22T04:07:50.226Z - normal: Generating main.js from D:\Cocos\CocosCreator\resources\static\build-templates\shares\main.js
+2018-08-22T04:07:50.734Z - normal: Generating html from D:\Cocos\CocosCreator\resources\static\fb-instant-games\index.html
+2018-08-22T04:07:50.781Z - normal: Generating main.js from D:\Cocos\CocosCreator\resources\static\fb-instant-games\main.js
+2018-08-22T04:07:50.971Z - normal: Built to "D:\Workspace\CocosProject\CocosCreator\demo-instant-games-master\build\fb-instant-games" successfully
+2018-08-22T04:13:31.524Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "D:\\Workspace\\CocosProject\\CocosCreator\\demo-instant-games-master\\build",
+  "debug": false,
+  "dest": "D:\\Workspace\\CocosProject\\CocosCreator\\demo-instant-games-master\\build\\fb-instant-games",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.instant-games-example",
+  "platform": "fb-instant-games",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "eddc6626-5b0e-468d-b21f-546954818b1f"
+  ],
+  "sourceMaps": false,
+  "startScene": "eddc6626-5b0e-468d-b21f-546954818b1f",
+  "template": "link",
+  "title": "offical-instant-sdk-demo",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "appid": "wx6ac3f5090a6b99c5",
+    "orientation": "portrait"
+  },
+  "xxteaKey": "81a5aca1-c166-46",
+  "zipCompressJs": true,
+  "project": "D:\\Workspace\\CocosProject\\CocosCreator\\demo-instant-games-master",
+  "projectName": "offical-instant-sdk-demo",
+  "debugBuildWorker": false
+}
+2018-08-22T04:13:31.527Z - normal: Building D:\Workspace\CocosProject\CocosCreator\demo-instant-games-master
+2018-08-22T04:13:31.528Z - normal: Destination D:\Workspace\CocosProject\CocosCreator\demo-instant-games-master\build\fb-instant-games
+2018-08-22T04:13:31.529Z - normal: Delete D:\Workspace\CocosProject\CocosCreator\demo-instant-games-master\build\fb-instant-games\**\*
+2018-08-22T04:13:34.625Z - normal: Compiled project javascript file successfully
+2018-08-22T04:13:34.625Z - normal: Start building assets
+2018-08-22T04:13:34.625Z - normal: Start spawn build-worker
+2018-08-22T04:13:35.778Z - normal: Finish spawn build-worker
+2018-08-22T04:13:35.778Z - normal: Start init build-worker
+2018-08-22T04:13:38.888Z - normal: 1.9.0
+2018-08-22T04:13:38.982Z - normal: Finish init build-worker
+2018-08-22T04:13:38.982Z - normal: Start build-assets in worker
+2018-08-22T04:13:39.357Z - normal: Finish build-assets in worker
+2018-08-22T04:13:39.369Z - normal: Finish building assets
+2018-08-22T04:13:39.388Z - normal: Start building raw assets
+2018-08-22T04:13:39.390Z - normal: Start building plugin scripts
+2018-08-22T04:13:39.434Z - normal: Finish building raw assets
+2018-08-22T04:13:39.445Z - normal: Generating main.js from D:\Cocos\CocosCreator\resources\static\build-templates\shares\main.js
+2018-08-22T04:13:39.533Z - normal: Generating html from D:\Cocos\CocosCreator\resources\static\fb-instant-games\index.html
+2018-08-22T04:13:39.534Z - normal: Generating main.js from D:\Cocos\CocosCreator\resources\static\fb-instant-games\main.js
+2018-08-22T04:13:39.613Z - normal: Built to "D:\Workspace\CocosProject\CocosCreator\demo-instant-games-master\build\fb-instant-games" successfully
+2018-08-22T05:55:27.740Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "D:\\Workspace\\CocosProject\\CocosCreator\\demo-instant-games-master\\build",
+  "debug": false,
+  "dest": "D:\\Workspace\\CocosProject\\CocosCreator\\demo-instant-games-master\\build\\fb-instant-games",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.instant-games-example",
+  "platform": "fb-instant-games",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "eddc6626-5b0e-468d-b21f-546954818b1f"
+  ],
+  "sourceMaps": false,
+  "startScene": "eddc6626-5b0e-468d-b21f-546954818b1f",
+  "template": "link",
+  "title": "offical-instant-sdk-demo",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "appid": "wx6ac3f5090a6b99c5",
+    "orientation": "portrait"
+  },
+  "xxteaKey": "81a5aca1-c166-46",
+  "zipCompressJs": true,
+  "project": "D:\\Workspace\\CocosProject\\CocosCreator\\demo-instant-games-master",
+  "projectName": "offical-instant-sdk-demo",
+  "debugBuildWorker": false
+}
+2018-08-22T05:55:27.743Z - normal: Building D:\Workspace\CocosProject\CocosCreator\demo-instant-games-master
+2018-08-22T05:55:27.743Z - normal: Destination D:\Workspace\CocosProject\CocosCreator\demo-instant-games-master\build\fb-instant-games
+2018-08-22T05:55:27.745Z - normal: Delete D:\Workspace\CocosProject\CocosCreator\demo-instant-games-master\build\fb-instant-games\**\*
+2018-08-22T05:55:40.984Z - normal: Compiled project javascript file successfully
+2018-08-22T05:55:40.984Z - normal: Start building assets
+2018-08-22T05:55:40.984Z - normal: Start spawn build-worker
+2018-08-22T05:55:41.955Z - normal: Finish spawn build-worker
+2018-08-22T05:55:41.955Z - normal: Start init build-worker
+2018-08-22T05:55:51.248Z - normal: 1.9.0
+2018-08-22T05:55:51.381Z - normal: Finish init build-worker
+2018-08-22T05:55:51.381Z - normal: Start build-assets in worker
+2018-08-22T05:55:52.660Z - normal: Finish build-assets in worker
+2018-08-22T05:55:52.668Z - normal: Finish building assets
+2018-08-22T05:55:52.688Z - normal: Start building raw assets
+2018-08-22T05:55:52.689Z - normal: Start building plugin scripts
+2018-08-22T05:55:52.725Z - normal: Finish building raw assets
+2018-08-22T05:55:52.735Z - normal: Generating main.js from D:\Cocos\CocosCreator\resources\static\build-templates\shares\main.js
+2018-08-22T05:55:52.815Z - normal: Generating html from D:\Cocos\CocosCreator\resources\static\fb-instant-games\index.html
+2018-08-22T05:55:52.817Z - normal: Generating main.js from D:\Cocos\CocosCreator\resources\static\fb-instant-games\main.js
+2018-08-22T05:55:52.898Z - normal: Built to "D:\Workspace\CocosProject\CocosCreator\demo-instant-games-master\build\fb-instant-games" successfully
+2018-08-22T07:34:36.385Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "D:\\Workspace\\CocosProject\\CocosCreator\\demo-instant-games-master\\build",
+  "debug": false,
+  "dest": "D:\\Workspace\\CocosProject\\CocosCreator\\demo-instant-games-master\\build\\fb-instant-games",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.instant-games-example",
+  "platform": "fb-instant-games",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "eddc6626-5b0e-468d-b21f-546954818b1f"
+  ],
+  "sourceMaps": false,
+  "startScene": "eddc6626-5b0e-468d-b21f-546954818b1f",
+  "template": "link",
+  "title": "offical-instant-sdk-demo",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "appid": "wx6ac3f5090a6b99c5",
+    "orientation": "portrait"
+  },
+  "xxteaKey": "81a5aca1-c166-46",
+  "zipCompressJs": true,
+  "project": "D:\\Workspace\\CocosProject\\CocosCreator\\demo-instant-games-master",
+  "projectName": "offical-instant-sdk-demo",
+  "debugBuildWorker": false
+}
+2018-08-22T07:34:36.464Z - normal: Building D:\Workspace\CocosProject\CocosCreator\demo-instant-games-master
+2018-08-22T07:34:36.464Z - normal: Destination D:\Workspace\CocosProject\CocosCreator\demo-instant-games-master\build\fb-instant-games
+2018-08-22T07:34:36.490Z - normal: Delete D:\Workspace\CocosProject\CocosCreator\demo-instant-games-master\build\fb-instant-games\**\*
+2018-08-22T07:34:37.876Z - error: Build Failed: Error: EBUSY: resource busy or locked, unlink 'D:\Workspace\CocosProject\CocosCreator\demo-instant-games-master\build\fb-instant-games\offical-instant-sdk-demo.zip'
+    at Async.series.t (D:\Cocos\CocosCreator\resources\app.asar\editor\core\builder.js:1:3024)
+    at D:\Cocos\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:726:13
+    at D:\Cocos\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:52:16
+    at D:\Cocos\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:264:21
+    at D:\Cocos\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:44:16
+    at D:\Cocos\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:723:17
+    at D:\Cocos\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:167:37
+    at e (D:\Cocos\CocosCreator\resources\app.asar\editor\core\gulp-build.js:1:18314)
+    at D:\Cocos\CocosCreator\resources\app.asar\node_modules\del\index.js:50:5
+2018-08-22T07:34:42.765Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "D:\\Workspace\\CocosProject\\CocosCreator\\demo-instant-games-master\\build",
+  "debug": false,
+  "dest": "D:\\Workspace\\CocosProject\\CocosCreator\\demo-instant-games-master\\build\\fb-instant-games",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.instant-games-example",
+  "platform": "fb-instant-games",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "eddc6626-5b0e-468d-b21f-546954818b1f"
+  ],
+  "sourceMaps": false,
+  "startScene": "eddc6626-5b0e-468d-b21f-546954818b1f",
+  "template": "link",
+  "title": "offical-instant-sdk-demo",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "appid": "wx6ac3f5090a6b99c5",
+    "orientation": "portrait"
+  },
+  "xxteaKey": "81a5aca1-c166-46",
+  "zipCompressJs": true,
+  "project": "D:\\Workspace\\CocosProject\\CocosCreator\\demo-instant-games-master",
+  "projectName": "offical-instant-sdk-demo",
+  "debugBuildWorker": false
+}
+2018-08-22T07:34:42.766Z - normal: Building D:\Workspace\CocosProject\CocosCreator\demo-instant-games-master
+2018-08-22T07:34:42.766Z - normal: Destination D:\Workspace\CocosProject\CocosCreator\demo-instant-games-master\build\fb-instant-games
+2018-08-22T07:34:42.766Z - normal: Delete D:\Workspace\CocosProject\CocosCreator\demo-instant-games-master\build\fb-instant-games\**\*
+2018-08-22T07:34:57.789Z - normal: Compiled project javascript file successfully
+2018-08-22T07:34:57.789Z - normal: Start building assets
+2018-08-22T07:34:57.789Z - normal: Start spawn build-worker
+2018-08-22T07:34:58.813Z - normal: Finish spawn build-worker
+2018-08-22T07:34:58.813Z - normal: Start init build-worker
+2018-08-22T07:35:04.786Z - normal: 1.9.0
+2018-08-22T07:35:05.206Z - normal: Finish init build-worker
+2018-08-22T07:35:05.206Z - normal: Start build-assets in worker
+2018-08-22T07:35:07.517Z - normal: Finish build-assets in worker
+2018-08-22T07:35:07.530Z - normal: Finish building assets
+2018-08-22T07:35:07.564Z - normal: Start building raw assets
+2018-08-22T07:35:07.566Z - normal: Start building plugin scripts
+2018-08-22T07:35:07.608Z - normal: Finish building raw assets
+2018-08-22T07:35:07.682Z - normal: Generating main.js from D:\Cocos\CocosCreator\resources\static\build-templates\shares\main.js
+2018-08-22T07:35:07.860Z - normal: Generating html from D:\Cocos\CocosCreator\resources\static\fb-instant-games\index.html
+2018-08-22T07:35:07.888Z - normal: Generating main.js from D:\Cocos\CocosCreator\resources\static\fb-instant-games\main.js
+2018-08-22T07:35:07.976Z - normal: Built to "D:\Workspace\CocosProject\CocosCreator\demo-instant-games-master\build\fb-instant-games" successfully

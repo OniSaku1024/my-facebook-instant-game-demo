@@ -1,3 +1,4 @@
-# my-facebook-instant-game-demo
-这个项目是我从cocos creator的官方facebook instant game示例上修改而来
-真的是别的啥东西都没有
+# demo-instant-games
+
+使用 Facebook Instant Games 与 Game Services API 的简单范例
+
